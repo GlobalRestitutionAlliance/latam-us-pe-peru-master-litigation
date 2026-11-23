@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/americas/peru",
+  "final_url": "https://www.hrw.org/americas/peru",
+  "title": "HRW - Peru",
+  "fetched_at": "2026-11-23T15:34:03.407236Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 202226,
+  "sha256": "89668cd7ad57c03e51a7b729bcb2efe2a7f3567ceb23c4fe1a7d906c83f31f37",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

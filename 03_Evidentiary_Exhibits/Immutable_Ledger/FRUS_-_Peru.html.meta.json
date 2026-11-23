@@ -1,0 +1,17 @@
+{
+  "url": "https://history.state.gov/countries/peru",
+  "final_url": "https://history.state.gov/countries/peru",
+  "title": "FRUS - Peru",
+  "fetched_at": "2026-11-23T15:34:02.413149Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 26100,
+  "sha256": "d27bc3931e2de16f2d46851351c577133d2ab88becab4596311cc890f178fbad",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
